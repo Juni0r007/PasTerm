@@ -16,7 +16,7 @@ Pasterm [TERMUX]
 Como todos preguntan "¿Qué es Termux?"
 Bueno *Termux* es un emulador de terminal linux para android... lo mismo que en la pc pero mas barato.... [Termux está en la play store (gratis)]
 
-> Hay que tener una vpn (obligatoriamente) ya que cada vez que saquemos un combo, nuestra ip quedara baneada temporalmente.
+> Hay que tener una vpn (obligatorio) ya que cada vez que saquemos un combo, nuestra ip quedara baneada temporalmente.
 
 Una ves descargado TERMUX y el PASTERM hay que actualizar paquetes... De Termux
 Y darle permiso a termux en nuestro terminal...
