@@ -14,7 +14,7 @@ Tenemos un grupo en facebook... Link: https://www.facebook.com/groups/3036346135
 Pasterm [TERMUX]
 
 Como todos preguntan "¿Qué es Termux?"
-Bueno *Termux* es un emulador de terminal linux para android... lo mismo q en la pc pero mas barato.... [Termux está en la play store (gratis)]
+Bueno *Termux* es un emulador de terminal linux para android... lo mismo que en la pc pero mas barato.... [Termux está en la play store (gratis)]
 
 > Hay que tener una vpn (obligatoriamente) ya que cada vez que saquemos un combo, nuestra ip quedara baneada temporalmente.
 
@@ -63,4 +63,4 @@ Son cuentas  obtenidas con Sentry MBA y PasteBin [Termux pero no todas] en si es
 
 ## Anexos
 
-- Checker de Spotify > https://github.com/Juni0r007/SpotiChk
+- Checker de Spotify en Termux > https://github.com/Juni0r007/SpotiChk
