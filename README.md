@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Genera combos a base de Keywords con Termuxr. Este proyecto tiene fines educativos y/o demostrativos.
+Genera combos a base de Keywords con Termux. Este proyecto tiene fines educativos y/o demostrativos.
 
 Tenemos un grupo en facebook... Link: https://www.facebook.com/groups/303634613546969
 
