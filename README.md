@@ -4,7 +4,7 @@
 
 Genera combos a base de Keywords con Termux. Este proyecto tiene fines educativos y/o demostrativos.
 
-Tenemos un grupo en facebook > https://www.facebook.com/groups/491341894676273
+Tenemos un grupo en facebook > https://www.facebook.com/groups/415312355674056
 
 Video de instalacion > https://www.youtube.com/watch?v=0k9D20r2Q3U
 
